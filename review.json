@@ -1,0 +1,8 @@
+[
+  {"id": 1, "location": "NYC", "rating": 2, "text": "Waited 40 min for pickup; staff seemed overwhelmed.", "date": "2025-06-12"},
+  {"id": 2, "location": "NYC", "rating": 5, "text": "Quick service and super friendly at checkout!", "date": "2025-06-13"},
+  {"id": 3, "location": "SF",  "rating": 3, "text": "Food was good but order notes were ignored.", "date": "2025-06-15"},
+  {"id": 4, "location": "SF",  "rating": 1, "text": "App kept crashing, couldn’t place order.", "date": "2025-06-16"},
+  {"id": 5, "location": "LA",  "rating": 4, "text": "Clean store, decent prices, parking a bit tight.", "date": "2025-06-18"},
+  {"id": 6, "location": "LA",  "rating": 2, "text": "Delivery late and items missing.", "date": "2025-06-20"}
+]
